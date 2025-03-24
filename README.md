@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student** at the **University of Alberta**, passionate about **building scalable services and optimizing system architecture**.
 
-- 🔬 **Currently**: Researching **data analysis** & **mobile app development**
+- 🔬 **Currently**: Researching **data analysis** & **buildiing mobile apps**
 - 🌱 **Learning**: Cloud engineering & legacy system optimization
 - 💻 **Experience**: Incoming **Software Engineer Intern at Microsoft**, previously at **Amazon & Enbridge**
 
