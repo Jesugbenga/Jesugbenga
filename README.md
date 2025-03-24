@@ -1,11 +1,10 @@
 # Hi, I'm Jesugbenga 👋  
 
-I'm a **Software Engineer** with experience in frontend, backend and full-stack development. I have a strong foundation in **Python, Java, C#, and AWS**, and I enjoy building scalable and efficient systems.  
+I'm a **B.Sc. Computer Science Student** at the University of Alberta and am passionate about scalable services and efficient system architecture.  
 
-- 🚀 **Currently Working On:** Research in software engineering & developer behavior
-- 📚 **Incoming:** Software Engineering Intern at Microsoft
-- 📚 **Previously:** Software Development Engineering Intern at Amazon, and Enbridge  
-- 🎓 **Education:** B.Sc. in Computer Science at the Univesity of Alberta 
+- 🔭 I’m currently working on Research in data analysis and mobile app development.
+- 🌱 I’m currently learning cloud engineering concepts and optimising legacy systems.
+- 💻 I'm an incoming SWE Intern at Microsoft and previously SDE Intern at Amazon and Enbridge.
 
 ### 📫 Let's Connect  
 [LinkedIn](https://www.linkedin.com/in/jesugbenga-omoniwa) • [Portfolio](https://jesugbenga.github.io/)  
