@@ -1,6 +1,6 @@
 # Hi, I'm Jesugbenga 👋  
 
-I'm a **B.Sc. Computer Science Student** at the University of Alberta and am passionate about scalable services and efficient system architecture.  
+I'm a **B.Sc. Computer Science Student** at the University of Alberta and am passionate about building scalable services and efficient system architecture.  
 
 - 🔭 I’m currently working on Research in data analysis and mobile app development.
 - 🌱 I’m currently learning cloud engineering concepts and optimising legacy systems.
